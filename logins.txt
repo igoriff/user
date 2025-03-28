@@ -1,4 +1,10 @@
-admin:123456
-usuario1:minhasenha
-usuario2:senha321
-igor:123
+admin:senha123
+usuario1:abc123
+trader_pro:profit2024
+investidor99:securepass
+analistaX:finance2025
+guest:welcome123
+devMaster:codeSecure
+marketGuru:tradeNow
+secureUser:safeLogin
+economista:trend2024
